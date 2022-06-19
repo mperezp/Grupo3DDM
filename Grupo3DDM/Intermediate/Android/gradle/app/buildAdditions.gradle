@@ -9,7 +9,7 @@ android {
 	}
 	signingConfigs {
 		release {
-			storeFile file('E:/UnrealEsEspecialYNecesitaSuCarpeta/DDM/Grupo3DDM/Grupo3DDM/Intermediate/Android/armv7/MyKey.keystore')
+			storeFile file('C:/Users/Manu/Documents/GitHub/Grupo3DDM/Grupo3DDM/Intermediate/Android/armv7/MyKey.keystore')
 			storePassword 'laLALA123'
 			keyAlias 'MyKey'
 			keyPassword 'laLALA123'
@@ -45,5 +45,8 @@ android {
 	}
 }
 
+dependencies {
+	implementation('com.google.android.gms:play-services-ads:11.8.0')
+}
 			dependencies.implementation(name: 'aar', ext: 'aar')
 			dependencies.implementation(name: 'memoryadvice-release', ext: 'aar')

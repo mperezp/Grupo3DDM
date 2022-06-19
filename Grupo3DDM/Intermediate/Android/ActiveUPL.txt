@@ -4,4 +4,5 @@ Plugins\Runtime\GoogleCloudMessaging\Source\GoogleCloudMessaging\GoogleCloudMess
 Plugins\Runtime\GooglePAD\Source\GooglePAD\GooglePAD_APL.xml
 Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\OculusMobile_APL.xml
 Source\Runtime\Online\Voice\AndroidVoiceImpl_UPL.xml
+Source\Runtime\Advertising\Android\AndroidAdvertising\AndroidAdvertising_APL.xml
 Source\ThirdParty\GoogleGameSDK\GoogleGameSDK_APL.xml

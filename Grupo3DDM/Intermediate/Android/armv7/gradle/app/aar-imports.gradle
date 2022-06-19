@@ -1,6 +1,6 @@
 repositories {
-	maven { url uri('F:/Unreal Engine/UE_4.26/Engine/Source/ThirdParty/Android/extras/google/m2repository') }
-	maven { url uri('F:/Unreal Engine/UE_4.26/Engine/Source/ThirdParty/Android/extras/android/m2repository') }
+	maven { url uri('C:/Program Files/Epic Games/UE_4.26/Engine/Source/ThirdParty/Android/extras/google/m2repository') }
+	maven { url uri('C:/Program Files/Epic Games/UE_4.26/Engine/Source/ThirdParty/Android/extras/android/m2repository') }
 }
 dependencies {
 	implementation 'com.google.android.gms:play-services-auth:11.8.0'

@@ -1,7 +1,7 @@
 #!/bin/sh
 cd "`dirname "$0"`"
 ADB=
-if [ "$ANDROID_HOME" != "" ]; then ADB=$ANDROID_HOME/platform-tools/adb; else ADB=C:/Users/Dominik/AppData/Local/Android/Sdk/platform-tools/adb; fi
+if [ "$ANDROID_HOME" != "" ]; then ADB=$ANDROID_HOME/platform-tools/adb; else ADB=C:/android/android-sdk/platform-tools/adb; fi
 DEVICE=
 if [ "$1" != "" ]; then DEVICE="-s $1"; fi
 echo

@@ -20,9 +20,9 @@ Android.Engine:Core.System:CanUseUnversionedPropertySerialization:0=False
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 Android.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry.Entry
-Android.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C
+Android.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/2DSideScrollerBP/Blueprints/Generador/Taiko_Gamemode.Taiko_Gamemode_C
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
-Windows.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=/Engine/MobileResources/HUD/LeftVirtualJoystickOnly.LeftVirtualJoystickOnly
+Windows.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=None
 Windows.Input:/Script/Engine.InputSettings:bEnableMouseSmoothing:0=True
 Windows.Input:/Script/Engine.InputSettings:bEnableFOVScaling:0=True
 Windows.Input:/Script/Engine.InputSettings:FOVScale:0=0.011110
@@ -395,7 +395,7 @@ Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Scri
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry.Entry
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/2DSideScrollerBP/Blueprints/Generador/Taiko_Gamemode.Taiko_Gamemode_C
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:TransitionMap:0=None
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:bUseSplitscreen:0=False
@@ -1435,7 +1435,7 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bPackageDat
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bUseExternalFilesDir:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bPublicLogFiles:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bCreateAllPlatformsInstall:0=True
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:Orientation:0=SensorLandscape
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:Orientation:0=SensorPortrait
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:InstallLocation:0=InternalOnly
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:DepthBufferPreference:0=Default
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:PackageName:0=es.udc.DDM.[PROJECT]
@@ -1535,8 +1535,8 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MaliGraphic
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bStreamLandscapeMeshLODs:0=False
 Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:SDKAPILevel:0=latest
 Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:NDKAPILevel:0=android-21
-Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:SDKPath:0=(Path="C/Users/Dominik/AppData/Local/Android/Sdk")
-Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:NDKPath:0=(Path="C/Users/Dominik/AppData/Local/Android/Sdk/ndk/21.3.6528147")
+Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:SDKPath:0=(Path="C/android/android-sdk")
+Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:NDKPath:0=(Path="C/android/android-sdk/ndk/21.3.6528147")
 Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:JavaPath:0=(Path="C/Program Files/Android/Android Studio/jre")
 Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bEnableZI:0=False
 Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bUseVulkanForZI:0=True
@@ -1909,7 +1909,7 @@ Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaul
 Windows.Engine:/Script/Slate.SlateSettings:bExplicitCanvasChildZOrder:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="E/UnrealEsEspecialYNecesitaSuCarpeta/DDM/Grupo3Builds")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/Manu/Documents")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False

@@ -211,27 +211,34 @@
 			]
 		},
 		{
-			"ShaderMapHash": "97ECB2FC11FFF5A09B96CEE7AE99B307F451804E",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "DB8CD65CD6FB37EE1DF45EC54480E38417114946",
 			"Assets": [
 				"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "55D807C9E9E2501071B63CF86FAE5E542689903A",
+			"ShaderMapHash": "09752B6099AC1A8BF9B1791EBB81BD5D28AB9285",
 			"Assets": [
-				"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset"
+				"../../../../../../Users/Manu/Documents/GitHub/Grupo3DDM/Grupo3DDM/Content/2DSideScroller/Materials/Transparent.uasset",
+				"../../../../../../Users/Manu/Documents/GitHub/Grupo3DDM/Grupo3DDM/Content/2DSideScroller/Materials/TransparentBlue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "298C1894131D3E8132A42DD311F3BAD8A2CB11B9",
+			"Assets": [
+				"../../../Engine/Content/TemplateResources/M_Template_Master.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "25134F0FEE26E5024FEF44AB76D7FFEFEF67D9AA",
 			"Assets": [
-				"E:/UnrealEsEspecialYNecesitaSuCarpeta/DDM/Grupo3DDM/Grupo3DDM/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset"
+				"../../../../../../Users/Manu/Documents/GitHub/Grupo3DDM/Grupo3DDM/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "97ECB2FC11FFF5A09B96CEE7AE99B307F451804E",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
 			]
 		}
 	]
