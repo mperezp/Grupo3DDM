@@ -144,7 +144,7 @@
 
         <meta-data
             android:name="android.max_aspect"
-            android:value="2.10" />
+            android:value="2100000.00" />
         <meta-data
             android:name="com.oculus.supportedDevices"
             android:value="quest" />

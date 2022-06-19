@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
+ADDED from Z:\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-59:12
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Dominik\.gradle\caches\transforms-2\files-2.1\a5bfefc3390fe8242124503106abe28c\play-services-auth-11.8.0\AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\Dominik\.gradle\caches\transforms-2\files-2.1\7757ebbb5eb2df33ec17bdee31a954bf\play-services-games-11.8.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-nearby:11.8.0] C:\Users\Dominik\.gradle\caches\transforms-2\files-2.1\1b3128fc4c39ad319f19749ab0ed54b3\play-services-nearby-11.8.0\AndroidManifest.xml:2:1-11:12
@@ -41,9 +41,9 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Dominik\.gradle\caches\transforms-2\files-2.1\4333f26ee6584a628163811b2454d702\play-services-basement-license-11.8.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Dominik\.gradle\caches\transforms-2\files-2.1\e77cf77a84e886f10662bff175966761\play-services-tasks-license-11.8.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\Dominik\.gradle\caches\transforms-2\files-2.1\2c9618a627c2f1aea559fece40d76b41\play-services-drive-license-11.8.0\AndroidManifest.xml:2:1-6:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-59:12
 	package
 		ADDED from Z:\app\src\main\AndroidManifest.xml:1:70-100
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
@@ -197,9 +197,9 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:17:5-104
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:17:16-83
 meta-data#com.epicgames.ue4.GameActivity.bPackageDataInsideApk
-ADDED from Z:\app\src\main\AndroidManifest.xml:18:5-107
+ADDED from Z:\app\src\main\AndroidManifest.xml:18:5-108
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:18:84-104
+		ADDED from Z:\app\src\main\AndroidManifest.xml:18:84-105
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:18:16-83
 meta-data#com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp
@@ -227,21 +227,21 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:22:5-89
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:22:16-69
 meta-data#com.epicgames.ue4.GameActivity.bHasOBBFiles
-ADDED from Z:\app\src\main\AndroidManifest.xml:23:5-98
+ADDED from Z:\app\src\main\AndroidManifest.xml:23:5-99
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:23:75-95
+		ADDED from Z:\app\src\main\AndroidManifest.xml:23:75-96
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:23:16-74
 meta-data#com.epicgames.ue4.GameActivity.BuildConfiguration
-ADDED from Z:\app\src\main\AndroidManifest.xml:24:5-108
+ADDED from Z:\app\src\main\AndroidManifest.xml:24:5-111
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:24:81-105
+		ADDED from Z:\app\src\main\AndroidManifest.xml:24:81-108
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:24:16-80
 meta-data#com.epicgames.ue4.GameActivity.CookedFlavors
-ADDED from Z:\app\src\main\AndroidManifest.xml:25:5-108
+ADDED from Z:\app\src\main\AndroidManifest.xml:25:5-99
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:25:76-105
+		ADDED from Z:\app\src\main\AndroidManifest.xml:25:76-96
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:25:16-75
 meta-data#com.epicgames.ue4.GameActivity.bValidateTextureFormats
@@ -331,9 +331,9 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:41:9-71
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:41:17-68
 meta-data#android.max_aspect
-ADDED from Z:\app\src\main\AndroidManifest.xml:44:5-73
+ADDED from Z:\app\src\main\AndroidManifest.xml:44:5-79
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:44:50-70
+		ADDED from Z:\app\src\main\AndroidManifest.xml:44:50-76
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:44:16-49
 meta-data#com.oculus.supportedDevices

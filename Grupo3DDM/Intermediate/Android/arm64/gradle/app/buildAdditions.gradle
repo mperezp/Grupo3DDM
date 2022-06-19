@@ -2,6 +2,11 @@ apply from: 'aar-imports.gradle'
 apply from: 'projects.gradle'
 apply from: 'abi.gradle'
 android {
+	bundle {
+		abi { enableSplit = true }
+		language { enableSplit = true }
+		density { enableSplit = true }
+	}
 	signingConfigs {
 		release {
 			storeFile file('E:/UnrealEsEspecialYNecesitaSuCarpeta/DDM/Grupo3DDM/Grupo3DDM/Intermediate/Android/arm64/MyKey.keystore')

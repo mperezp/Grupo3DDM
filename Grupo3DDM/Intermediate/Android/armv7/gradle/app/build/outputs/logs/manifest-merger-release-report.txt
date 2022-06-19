@@ -329,9 +329,9 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:41:9-71
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:41:17-68
 meta-data#android.max_aspect
-ADDED from Z:\app\src\main\AndroidManifest.xml:44:5-73
+ADDED from Z:\app\src\main\AndroidManifest.xml:44:5-79
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:44:50-70
+		ADDED from Z:\app\src\main\AndroidManifest.xml:44:50-76
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:44:16-49
 meta-data#com.oculus.supportedDevices

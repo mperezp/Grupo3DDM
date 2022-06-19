@@ -4,8 +4,7 @@
     android:installLocation="internalOnly"
     android:targetSandboxVersion="2"
     android:versionCode="1"
-    android:versionName="1.0" >
-
+    android:versionName="1.0" > <!-- Supported texture compression formats (cooked) -->
     <uses-sdk
         android:minSdkVersion="21"
         android:targetSdkVersion="30" />
@@ -79,7 +78,7 @@
             android:value="0" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk"
-            android:value="true" />
+            android:value="false" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp"
             android:value="false" />
@@ -94,13 +93,13 @@
             android:value="" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles"
-            android:value="true" />
+            android:value="false" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.BuildConfiguration"
-            android:value="Shipping" />
+            android:value="Development" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.CookedFlavors"
-            android:value="ETC2,DXT,ASTC" />
+            android:value="ETC2" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.bValidateTextureFormats"
             android:value="true" />
@@ -147,7 +146,7 @@
 
         <meta-data
             android:name="android.max_aspect"
-            android:value="2.10" />
+            android:value="2100000.00" />
         <meta-data
             android:name="com.oculus.supportedDevices"
             android:value="quest" />

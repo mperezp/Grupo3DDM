@@ -279,11 +279,11 @@
 142        </receiver>
 143
 144        <meta-data
-144-->Z:\app\src\main\AndroidManifest.xml:44:5-73
+144-->Z:\app\src\main\AndroidManifest.xml:44:5-79
 145            android:name="android.max_aspect"
 145-->Z:\app\src\main\AndroidManifest.xml:44:16-49
-146            android:value="2.10" />
-146-->Z:\app\src\main\AndroidManifest.xml:44:50-70
+146            android:value="2100000.00" />
+146-->Z:\app\src\main\AndroidManifest.xml:44:50-76
 147        <meta-data
 147-->Z:\app\src\main\AndroidManifest.xml:45:5-83
 148            android:name="com.oculus.supportedDevices"

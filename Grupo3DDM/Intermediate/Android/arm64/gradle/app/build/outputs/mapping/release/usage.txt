@@ -2922,8 +2922,8 @@ android.support.v4.app.SharedElementCallback$OnSharedElementsReadyListener:
 android.support.v4.media.MediaBrowserCompat$ConnectionCallback
 android.support.v4.media.MediaBrowserCompat$MediaBrowserImplApi26
 android.support.v4.view.PagerTabStrip$2
-android.support.annotation.Dimension
 android.support.annotation.WorkerThread
+android.support.annotation.Dimension
 android.support.v13.R
 android.support.v4.app.JobIntentService
 android.support.v4.app.AppLaunchChecker

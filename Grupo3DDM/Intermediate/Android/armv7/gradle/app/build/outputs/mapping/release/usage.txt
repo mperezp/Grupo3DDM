@@ -2922,8 +2922,8 @@ android.support.v4.app.SharedElementCallback$OnSharedElementsReadyListener:
 android.support.v4.media.MediaBrowserCompat$ConnectionCallback
 android.support.v4.media.MediaBrowserCompat$MediaBrowserImplApi26
 android.support.v4.view.PagerTabStrip$2
-android.support.annotation.WorkerThread
 android.support.annotation.Dimension
+android.support.annotation.WorkerThread
 android.support.v13.R
 android.support.v4.app.JobIntentService
 android.support.v4.app.AppLaunchChecker
@@ -3045,8 +3045,8 @@ android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplBase
 android.support.v4.media.session.MediaSessionCompat$MediaSessionImplApi18$1
 android.support.v13.view.inputmethod.InputContentInfoCompat
 android.support.v4.app.ActionBarDrawerToggle$SetIndicatorInfo
-android.support.v4.app.JobIntentService$GenericWorkItem
 android.support.v4.app.JobIntentService$WorkEnqueuer
+android.support.v4.app.JobIntentService$GenericWorkItem
 android.support.annotation.AnimatorRes
 android.support.v4.media.MediaBrowserServiceCompat$MediaBrowserServiceImplApi23
 android.support.v4.provider.FontsContractCompat$4$3

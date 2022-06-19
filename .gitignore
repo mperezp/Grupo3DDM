@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Grupo3DDM/Binaries/Android/Grupo3DDM-arm64.apk
+Grupo3DDM/Binaries/Android/Grupo3DDM-armv7.apk
+Grupo3DDM/Binaries/Android/Grupo3DDM-Android-Shipping.aab
+Grupo3DDM/Binaries/Android/Grupo3DDM-Android-Shipping_universal.apk
+Grupo3DDM/Intermediate/Android/arm64/gradle/app/build/outputs/apk/app-debug.apk
+Grupo3DDM/Intermediate/Android/armv7/gradle/app/build/outputs/apk/app-debug.apk
+Grupo3DDM/Intermediate/Android/gradle/app/build/outputs/bundle/release/app-release.aab
+Grupo3DDM/Intermediate/Android/gradle/app/build/outputs/bundle/release/universal.apks
+Grupo3DDM/Intermediate/Android/gradle/app/build/intermediates/module_bundle/release/out/base.zip
+Grupo3DDM/Intermediate/Android/gradle/app/build/intermediates/intermediary_bundle/release/app-release.aab
