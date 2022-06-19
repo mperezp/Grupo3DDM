@@ -22,6 +22,16 @@ Android.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/2D
 Android.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry.Entry
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/2DSideScrollerBP/Blueprints/Generador/Taiko_Gamemode.Taiko_Gamemode_C
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
+Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bUseAudioStreamCaching:0=False
+Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bResampleForDevice:0=False
+Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:SoundCueCookQualityIndex:0=-1
+Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MaxSampleRate:0=0.000000
+Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:HighSampleRate:0=0.000000
+Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MedSampleRate:0=0.000000
+Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:LowSampleRate:0=0.000000
+Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MinSampleRate:0=0.000000
+Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:CompressionQualityModifier:0=0.000000
+Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:AutoStreamingThreshold:0=0.000000
 Windows.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=None
 Windows.Input:/Script/Engine.InputSettings:bEnableMouseSmoothing:0=True
 Windows.Input:/Script/Engine.InputSettings:bEnableFOVScaling:0=True
@@ -391,6 +401,22 @@ Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:98=/Engine/EngineResources/M_StreamingPause
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:99=/Engine/EngineResources/WhiteSquareTexture
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:100=/Engine/EngineResources/GradientTexture0
+Windows.Engine:/Script/UnrealEd.EditorEngine:FlipNormalMapGreenChannel:0=False
+Windows.Engine:/Script/UnrealEd.EditorEngine:LocalPlayerClassName:0=/Script/Engine.LocalPlayer
+Windows.Engine:/Script/UnrealEd.EditorEngine:GameCommandLine:0=-log
+Windows.Engine:/Script/UnrealEd.EditorEngine:FOVAngle:0=90.000000
+Windows.Engine:/Script/UnrealEd.EditorEngine:GodMode:0=True
+Windows.Engine:/Script/UnrealEd.EditorEngine:UseAxisIndicator:0=True
+Windows.Engine:/Script/UnrealEd.EditorEngine:MatineeCurveDetail:0=0.1
+Windows.Engine:/Script/UnrealEd.EditorEngine:HeightMapExportClassName:0=TerrainHeightMapExporterTextT3D
+Windows.Engine:/Script/UnrealEd.EditorEngine:bGroupingActive:0=true
+Windows.Engine:/Script/UnrealEd.EditorEngine:bCustomCameraAlignEmitter:0=true
+Windows.Engine:/Script/UnrealEd.EditorEngine:CustomCameraAlignEmitterDistance:0=100.0
+Windows.Engine:/Script/UnrealEd.EditorEngine:bDrawSocketsInGMode:0=false
+Windows.Engine:/Script/UnrealEd.EditorEngine:bSmoothFrameRate:0=false
+Windows.Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:0=(LowerBound=(Type="ERangeBoundTypesInclusive",Value=5),UpperBound=(Type="ERangeBoundTypesInclusive",Value=120))
+Windows.Engine:/Script/UnrealEd.EditorEngine:UseOldStyleMICEditorGroups:0=true
+Windows.Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:0=
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
@@ -822,21 +848,6 @@ Windows.Engine:TextureStreaming:AllowStreamingLightmaps:0=True
 Windows.Engine:TextureStreaming:UseDynamicStreaming:0=True
 Windows.Engine:TextureStreaming:BoostPlayerTextures:0=3.0
 Windows.Engine:TextureStreaming:PoolSizeVRAMPercentage:0=70
-Windows.Engine:/Script/UnrealEd.EditorEngine:LocalPlayerClassName:0=/Script/Engine.LocalPlayer
-Windows.Engine:/Script/UnrealEd.EditorEngine:GameCommandLine:0=-log
-Windows.Engine:/Script/UnrealEd.EditorEngine:FOVAngle:0=90.000000
-Windows.Engine:/Script/UnrealEd.EditorEngine:GodMode:0=True
-Windows.Engine:/Script/UnrealEd.EditorEngine:UseAxisIndicator:0=True
-Windows.Engine:/Script/UnrealEd.EditorEngine:MatineeCurveDetail:0=0.1
-Windows.Engine:/Script/UnrealEd.EditorEngine:HeightMapExportClassName:0=TerrainHeightMapExporterTextT3D
-Windows.Engine:/Script/UnrealEd.EditorEngine:bGroupingActive:0=true
-Windows.Engine:/Script/UnrealEd.EditorEngine:bCustomCameraAlignEmitter:0=true
-Windows.Engine:/Script/UnrealEd.EditorEngine:CustomCameraAlignEmitterDistance:0=100.0
-Windows.Engine:/Script/UnrealEd.EditorEngine:bDrawSocketsInGMode:0=false
-Windows.Engine:/Script/UnrealEd.EditorEngine:bSmoothFrameRate:0=false
-Windows.Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:0=(LowerBound=(Type="ERangeBoundTypesInclusive",Value=5),UpperBound=(Type="ERangeBoundTypesInclusive",Value=120))
-Windows.Engine:/Script/UnrealEd.EditorEngine:UseOldStyleMICEditorGroups:0=true
-Windows.Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:0=
 Windows.Engine:DevOptions.Shaders:bAllowCompilingThroughWorkers:0=True
 Windows.Engine:DevOptions.Shaders:bAllowAsynchronousShaderCompiling:0=True
 Windows.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreads:0=3
@@ -1420,7 +1431,7 @@ Windows.Engine:/Script/IOSRuntimeSettings.IOSRuntimeSettings:bDisableMotionData:
 Windows.Engine:/Script/IOSRuntimeSettings.IOSRuntimeSettings:bEnableAdvertisingIdentifier:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:SDKAPILevelOverride:0=
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:NDKAPILevelOverride:0=
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bEnableGooglePlaySupport:0=False
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bEnableGooglePlaySupport:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSupportAdMob:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildForArmV7:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildForArm64:0=True
@@ -1439,7 +1450,7 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:Orientation
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:InstallLocation:0=InternalOnly
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:DepthBufferPreference:0=Default
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:PackageName:0=es.udc.DDM.[PROJECT]
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:StoreVersion:0=1
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:StoreVersion:0=2
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:StoreVersionOffsetArmV7:0=0
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:StoreVersionOffsetArm64:0=0
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:StoreVersionOffsetX86:0=0
@@ -1535,9 +1546,9 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MaliGraphic
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bStreamLandscapeMeshLODs:0=False
 Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:SDKAPILevel:0=latest
 Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:NDKAPILevel:0=android-21
-Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:SDKPath:0=(Path="C/android/android-sdk")
-Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:NDKPath:0=(Path="C/android/android-sdk/ndk/21.3.6528147")
-Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:JavaPath:0=(Path="C/Program Files/Android/Android Studio/jre")
+Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:SDKPath:0=(Path="D/Android Studio/android")
+Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:NDKPath:0=(Path="D/Android Studio/android/ndk/21.3.6528147")
+Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:JavaPath:0=(Path="D/Programas/Android Studio/jre")
 Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bEnableZI:0=False
 Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bUseVulkanForZI:0=True
 Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bUseMLAudioForZI:0=True
@@ -1909,7 +1920,7 @@ Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaul
 Windows.Engine:/Script/Slate.SlateSettings:bExplicitCanvasChildZOrder:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/Manu/Documents")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="D/Universidad/DDM/Entrega Final/Grupo3DDM/Grupo3DDM/Build/Android_ETC2")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
