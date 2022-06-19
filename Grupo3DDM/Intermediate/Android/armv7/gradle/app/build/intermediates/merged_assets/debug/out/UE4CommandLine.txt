@@ -1,1 +1,1 @@
-../../../Grupo3DDM/Grupo3DDM.uproject  /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap -Messaging -SessionId=E45BC70B449F14F73C78468470096619 -SessionOwner="Manu" -SessionName="Launch On Device" -iterative
+../../../Grupo3DDM/Grupo3DDM.uproject  /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap -Messaging -SessionId=CAB006044E6C65A1AB7C30848C95A31C -SessionOwner="Dominik" -SessionName="Launch On Device" -iterative

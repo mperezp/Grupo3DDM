@@ -1,16 +1,16 @@
-NDKROOT=C:/android/android-sdk/ndk/21.3.6528147
-ANDROID_HOME=C:/android/android-sdk
+NDKROOT=C:/Users/Dominik/AppData/Local/Android/Sdk/ndk/21.3.6528147
+ANDROID_HOME=C:/Users/Dominik/AppData/Local/Android/Sdk
 JAVA_HOME=C:/Program Files/Android/Android Studio/jre
 NDKVersion=android-21
 SDKVersion=android-32
-bForDistribution=True
+bForDistribution=False
 bMakeSeparateApks=True
-bPackageDataInsideApk=True
+bPackageDataInsideApk=False
 bDisableVerifyOBBOnStartUp=False
 bUseExternalFilesDir=False
-UPLHashCode=2110336077
+UPLHashCode=-354564114
 TemplatesHashCode=3e17d0f6e2fd6467e0d089548652db25
-bEnableGooglePlaySupport=False
+bEnableGooglePlaySupport=True
 bSupportAdMob=True
 bBuildForArmV7=True
 bBuildForArm64=True
@@ -29,7 +29,7 @@ Orientation=SensorPortrait
 InstallLocation=InternalOnly
 DepthBufferPreference=Default
 PackageName=es.udc.DDM.[PROJECT]
-StoreVersion=1
+StoreVersion=2
 StoreVersionOffsetArmV7=0
 StoreVersionOffsetArm64=0
 StoreVersionOffsetX86=0
@@ -123,8 +123,8 @@ AutoStreamingThreshold=0.000000
 AndroidGraphicsDebugger=None
 MaliGraphicsDebuggerPath=(Path="")
 bStreamLandscapeMeshLODs=False
-SDKPath=(Path="C:/android/android-sdk")
-NDKPath=(Path="C:/android/android-sdk/ndk/21.3.6528147")
+SDKPath=(Path="C:/Users/Dominik/AppData/Local/Android/Sdk")
+NDKPath=(Path="C:/Users/Dominik/AppData/Local/Android/Sdk/ndk/21.3.6528147")
 JavaPath=(Path="C:/Program Files/Android/Android Studio/jre")
 Arch=-armv7
 Arch=-arm64

@@ -9,10 +9,6 @@ android {
 	}
 	signingConfigs {
 		release {
-			storeFile file('C:/Users/Manu/Documents/GitHub/Grupo3DDM/Grupo3DDM/Intermediate/Android/arm64/MyKey.keystore')
-			storePassword 'laLALA123'
-			keyAlias 'MyKey'
-			keyPassword 'laLALA123'
 		}
 	}
 	buildTypes {
@@ -31,22 +27,6 @@ android {
 					}
 dependencies {
 	implementation('com.android.support:support-v13:27.1.0')
-}
-android {
-	buildTypes {
-		release {
-			proguardFile "proguard/common.pgcfg"
-			proguardFile "proguard/app_update.pgcfg"
-			proguardFile "proguard/asset_delivery.pgcfg"
-			proguardFile "proguard/app_update.pgcfg"
-			proguardFile "proguard/review.pgcfg"
-			proguardFile "proguard/split_install.pgcfg"
-		}
-	}
-}
-
-dependencies {
-	implementation('com.google.android.gms:play-services-ads:11.8.0')
 }
 			dependencies.implementation(name: 'aar', ext: 'aar')
 			dependencies.implementation(name: 'memoryadvice-release', ext: 'aar')

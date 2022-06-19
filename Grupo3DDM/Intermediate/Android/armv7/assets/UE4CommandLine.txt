@@ -1,1 +1,1 @@
-../../../Grupo3DDM/Grupo3DDM.uproject 
+../../../Grupo3DDM/Grupo3DDM.uproject  /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap -Messaging -SessionId=CAB006044E6C65A1AB7C30848C95A31C -SessionOwner="Dominik" -SessionName="Launch On Device" -iterative
