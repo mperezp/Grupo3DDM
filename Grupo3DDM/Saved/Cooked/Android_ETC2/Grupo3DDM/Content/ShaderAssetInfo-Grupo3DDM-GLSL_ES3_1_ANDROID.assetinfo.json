@@ -54,6 +54,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0BC660B8E744B6ED487C7F754DCC0B92B9B516C8",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "48B17E36C7DE47B4C65B0E9BD8952E5F22122799",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
@@ -63,12 +69,6 @@
 			"ShaderMapHash": "55EAA00F8F6E5F86C37474905350C686C365562F",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "0BC660B8E744B6ED487C7F754DCC0B92B9B516C8",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -217,28 +217,28 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AA7E18459965B4EBFF02D093D4CB50FBC8819D7C",
-			"Assets": [
-				"D:/Universidad/DDM/Entrega Final/Grupo3DDM/Grupo3DDM/Content/2DSideScroller/Materials/Transparent.uasset",
-				"D:/Universidad/DDM/Entrega Final/Grupo3DDM/Grupo3DDM/Content/2DSideScroller/Materials/TransparentBlue.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "298C1894131D3E8132A42DD311F3BAD8A2CB11B9",
 			"Assets": [
 				"../../../Engine/Content/TemplateResources/M_Template_Master.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "25134F0FEE26E5024FEF44AB76D7FFEFEF67D9AA",
-			"Assets": [
-				"D:/Universidad/DDM/Entrega Final/Grupo3DDM/Grupo3DDM/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "97ECB2FC11FFF5A09B96CEE7AE99B307F451804E",
 			"Assets": [
 				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA7E18459965B4EBFF02D093D4CB50FBC8819D7C",
+			"Assets": [
+				"../../../../../../Users/Manu/Documents/GitHub/Grupo3DDM/Grupo3DDM/Content/2DSideScroller/Materials/Transparent.uasset",
+				"../../../../../../Users/Manu/Documents/GitHub/Grupo3DDM/Grupo3DDM/Content/2DSideScroller/Materials/TransparentBlue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "25134F0FEE26E5024FEF44AB76D7FFEFEF67D9AA",
+			"Assets": [
+				"../../../../../../Users/Manu/Documents/GitHub/Grupo3DDM/Grupo3DDM/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset"
 			]
 		}
 	]
